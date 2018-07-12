@@ -1,5 +1,4 @@
 Amit Hampal
-0964514
 CIS 3490 Assignment 3
 
 COMPILATION
